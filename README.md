@@ -23,27 +23,27 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 # Scraping Web Data from Electronic Procurement Services Website
 
-Skills: Retrieving data by scraping html from website, slicing array to get the electronic procurement services data, creating functions to run scraping program until it saved into csv file.
-Tools: Python (Selenium, Pandas).
-Results: Structured dataset about electronic procurement services.
+- Skills: Retrieving data by scraping html from website, slicing array to get the electronic procurement services data, creating functions to run scraping program until it saved into csv file.
+- Tools: Python (Selenium, Pandas).
+- Results: Structured dataset about electronic procurement services.
 
 # Results of The 2019 Indonesian President Election Visualization
 
-Skills: Creating map, bar chart, pie chart, and table about 2019 Indonesian President election data.
-Tools: Tableau.
-Results: Insigths about 2019 Indonesian President election data.
+- Skills: Creating map, bar chart, pie chart, and table about 2019 Indonesian President election data.
+- Tools: Tableau.
+- Results: Insigths about 2019 Indonesian President election data.
 
 # Telkomsel Data Usage Services Analysis
 
-Skills: Creating functions to eliminate outliers from dataset, clustering data category and determine amount of clusters, creating a cluster graph about business insight, presentating business solutions to audiences. 
-Tools: Python (Pandas, Numpy, Matplotlib, Sklearn).
-Results: Cluster graph with its insight and business solution.
+- Skills: Creating functions to eliminate outliers from dataset, clustering data category and determine amount of clusters, creating a cluster graph about business insight, presentating business solutions to audiences. 
+- Tools: Python (Pandas, Numpy, Matplotlib, Sklearn).
+- Results: Cluster graph with its insight and business solution.
 
 # Country Development Analysis
 
-Skills: Creating functions to eliminate outliers from dataset, clustering data category and determine amount of clusters, creating cluster graphs about insights.
-Tools: Python (Pandas, Numpy, Matplotlib, Sklearn).
-Results: Cluster graphs with their insights and solutions.
+- Skills: Creating functions to eliminate outliers from dataset, clustering data category and determine amount of clusters, creating cluster graphs about insights.
+- Tools: Python (Pandas, Numpy, Matplotlib, Sklearn).
+- Results: Cluster graphs with their insights and solutions.
 
 # Certificates
 
