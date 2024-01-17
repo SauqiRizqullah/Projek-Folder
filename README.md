@@ -1,4 +1,4 @@
-## Muhammad Sauqi Rizqullah - Data Analytic Portofolio
+# Muhammad Sauqi Rizqullah - Data Analytic Portofolio
 
 # About
 
