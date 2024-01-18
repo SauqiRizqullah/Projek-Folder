@@ -23,27 +23,31 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 # Scraping Web Data from Electronic Procurement Services Website
 
-- Skills: Retrieving data by scraping html from website, slicing array to get the electronic procurement services data, creating functions to run scraping program until it saved into csv file.
-- Tools: Python (Selenium, Pandas).
+- **Code**: [web_scraping_data_layanan_pengadaan_secara_elektronik.py](https://github.com/SauqiRizqullah/Projek-Folder/blob/master/web_scraping_data_layanan_pengadaan_secara_elektronik.py)
+- **Skills**: Retrieving data by scraping html from website, slicing array to get the electronic procurement services data accurately, deploying and revising a python code.
+- Tools: Python (Selenium, Pandas), Git.
 - Results: Structured dataset about electronic procurement services.
 
 # Results of The 2019 Indonesian President Election Visualization
 
-- Skills: Creating map, bar chart, pie chart, and table about 2019 Indonesian President election data.
-- Tools: Tableau.
-- Results: Insigths about 2019 Indonesian President election data.
+- **Vizz**: [hasil-pilpres-2019](https://public.tableau.com/app/profile/muhammad.sauqi.rizqullah/viz/HasilPilpres2019/Dashboard1)
+- **Skills**: Creating map, bar chart, pie chart, and table about 2019 Indonesian President election data.
+- **Tools**: Tableau.
+- **Results**: Insigths about 2019 Indonesian President election data.
 
 # Telkomsel Data Usage Services Analysis
 
-- Skills: Creating functions to eliminate outliers from dataset, clustering data category and determine amount of clusters, creating a cluster graph about business insight, presentating business solutions to audiences. 
-- Tools: Python (Pandas, Numpy, Matplotlib, Sklearn).
-- Results: Cluster graph with its insight and business solution.
+- **Code**: [mengidentifikasi_perilaku_pelanggan_terhadap_penggunaan_jasa_paket_data_telkomsel.ipynb](https://github.com/SauqiRizqullah/Projek-Folder/blob/master/mengidentifikasi_perilaku_pelanggan_terhadap_penggunaan_jasa_paket_data_telkomsel.ipynb)
+- **Skills**: Creating functions to eliminate outliers from dataset, clustering data category and determine amount of clusters, creating a cluster graph about business insight, presentating business solutions to audiences. 
+- **Tools**: Python (Pandas, Numpy, Matplotlib, Sklearn).
+- **Results**: Cluster graph with its insight and business solution.
 
 # Country Development Analysis
 
-- Skills: Creating functions to eliminate outliers from dataset, clustering data category and determine amount of clusters, creating cluster graphs about insights.
-- Tools: Python (Pandas, Numpy, Matplotlib, Sklearn).
-- Results: Cluster graphs with their insights and solutions.
+- **Code**: [menentukan_pembangunan_negara_berdasarkan_faktor_sosial_ekonomi_dan_kesehatan.ipynb](https://github.com/SauqiRizqullah/Projek-Folder/blob/master/menentukan_pembangunan_negara_berdasarkan_faktor_sosial_ekonomi_dan_kesehatan.ipynb)
+- **Skills**: Creating functions to eliminate outliers from dataset, clustering data category and determine amount of clusters, creating cluster graphs about insights.
+- **Tools**: Python (Pandas, Numpy, Matplotlib, Sklearn).
+- **Results**: Cluster graphs with their insights and solutions.
 
 # Certificates
 
@@ -56,5 +60,5 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 # Contacts
 
-- LinkedIn : [Sauqi Rizqullah](https://www.linkedin.com/in/muhammadsauqirizqullah/)
-- Email : sauqi.risqullah@gmail.com
+- **LinkedIn**: [Sauqi Rizqullah](https://www.linkedin.com/in/muhammadsauqirizqullah/)
+- **Email**: sauqi.risqullah@gmail.com
